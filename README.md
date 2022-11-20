@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Ramya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ramya--01629954/)](https://www.linkedin.com/in/Ramya--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ramya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramya-kuruba-714b6077/)](https://www.linkedin.com/in/Ramya--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Ramya-green)](https://www.Ramya)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ramya-yellow)](https://stackoverflow.com/users/3687251/Ramya-)
 
