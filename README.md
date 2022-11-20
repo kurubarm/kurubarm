@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ramya-yellow)](https://stackoverflow.com/users/3687251/Ramya-)
 
 I'm
-Java developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams.I have a wide range of skills that include back-end development using open source technologies (Springboot, Microservices), front-end development ( ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP),database(Oracle,Postgres,Mysql), CI/CD(Docker, kubernetes ,jenkins,Openshift)
+Java developer,
+The crossover between programming and design has always been of interest to me, I've been lucky enough to work alongside some talented teams.I have a wide range of skills that include back-end development using open source technologies (Springboot, Microservices), front-end development ( ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP),database(Oracle,Postgres,Mysql), CI/CD(Docker, kubernetes ,jenkins,Openshift)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/kurubarm/count.svg)
